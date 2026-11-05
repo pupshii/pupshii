@@ -1,10 +1,10 @@
 <!-- Header banner: change the text and colour in the URL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi,%20I'm%20YOUR%20NAME&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi,%20I'm%20POONYAVEE%20WONGWISETSUK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <!-- Typing animation: edit the lines after "lines=" (separate with ;) -->
 <p align="center">
   <a href="https://github.com/pupshii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Full-stack+Developer;I+build+fast%2C+clean+web+apps;Open+to+graduate+roles+in+Sydney" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Analyst;I+build+fast%2C+clean+web+apps;Open+to+graduate+roles+in+Sydney" alt="Typing SVG" />
   </a>
 </p>
 
