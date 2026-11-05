@@ -40,17 +40,15 @@ I'm a Data Analyst based in Sydney, focused on Retails, Cybersecurity, and E-Com
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Project One**](https://github.com/pupshii/NLP-ReceiptExtraction) | CNN-LSTM-Based Bilingual Receipt Information Extraction Using Template-Based Data Generation (ICSEC2024) | Python (NumPy, Pandas, Matplotlib) |
-| [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | One sentence on the problem it solves | Python, FastAPI, Docker |
-| [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | One sentence on the problem it solves | TypeScript, Next.js |
+| [**Link**](https://github.com/pupshii/NLP-ReceiptExtraction) | CNN-LSTM-Based Bilingual Receipt Information Extraction Using Template-Based Data Generation (ICSEC2024) | Python (NumPy, Pandas, Matplotlib) |
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=2C5364&icon_color=2C5364" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=2C5364" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pupshii&show_icons=true&hide_border=true&theme=transparent&title_color=2C5364&icon_color=2C5364" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupshii&layout=compact&hide_border=true&theme=transparent&title_color=2C5364" />
 </p>
 
 <!-- Footer wave -->
