@@ -41,7 +41,7 @@ I'm a Data Analyst based in Sydney, focused on Retails, Cybersecurity, and E-Com
 | Project | What it does | Built with |
 |---|---|---|
 | [**Github Link**](https://github.com/pupshii/NLP-ReceiptExtraction) | CNN-LSTM-Based Bilingual Receipt Information Extraction Using Template-Based Data Generation (ICSEC2024) | Python (NumPy, Pandas, Matplotlib) |
-| [**Github Link**](https://github.com/pupshii/OzWatch) [**Website Link**](ozwatchlivemap.duckdns.org)| OzWatch: real-time open-data map of Australia | Python, PostgreSQL/PostGIS, FastAPI, Docker, GitHub Actions. |
+| [**Github Link**](https://github.com/pupshii/OzWatch) [**Website Link**](https://ozwatchlivemap.duckdns.org)| OzWatch: real-time open-data map of Australia | Python, PostgreSQL/PostGIS, FastAPI, Docker, GitHub Actions. |
 ---
 
 ### 📊 GitHub stats
