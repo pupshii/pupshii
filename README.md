@@ -1,5 +1,5 @@
 <!-- Header banner: change the text and colour in the URL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi,%20I'm%20POONYAVEE%20WONGWISETSUK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Pup&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <!-- Typing animation: edit the lines after "lines=" (separate with ;) -->
 <p align="center">
