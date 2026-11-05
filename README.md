@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/poonyaveew"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pup.pw.pup@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -40,8 +40,8 @@ I'm a Data Analyst based in Sydney, focused on Retails, Cybersecurity, and E-Com
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Link**](https://github.com/pupshii/NLP-ReceiptExtraction) | CNN-LSTM-Based Bilingual Receipt Information Extraction Using Template-Based Data Generation (ICSEC2024) | Python (NumPy, Pandas, Matplotlib) |
-
+| [**Github**](https://github.com/pupshii/NLP-ReceiptExtraction) | CNN-LSTM-Based Bilingual Receipt Information Extraction Using Template-Based Data Generation (ICSEC2024) | Python (NumPy, Pandas, Matplotlib) |
+| [**Github**](https://github.com/pupshii/OzWatch) [**Demo**](ozwatchlivemap.duckdns.org)| OzWatch: real-time open-data map of Australia | Python, PostgreSQL/PostGIS, FastAPI, Docker, GitHub Actions. |
 ---
 
 ### 📊 GitHub stats
