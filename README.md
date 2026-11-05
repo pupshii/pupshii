@@ -3,13 +3,13 @@
 
 <!-- Typing animation: edit the lines after "lines=" (separate with ;) -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/pupshii">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Full-stack+Developer;I+build+fast%2C+clean+web+apps;Open+to+graduate+roles+in+Sydney" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/poonyaveew"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -18,12 +18,12 @@
 
 ### 👋 About me
 
-I'm a **[your role]** based in **[city]**, focused on **[area, e.g. backend systems / web apps / data]**.
+I'm a Data Analyst based in Sydney, focused on Retails, Cybersecurity, and E-Commerce.
 
-- 🔭 Currently building **[project name]**, a [one-line description]
-- 🌱 Learning **[technology]**
-- 🎯 Looking for **[graduate / junior / internship]** roles in **[field]**
-- ⚡ Fun fact: [something memorable but short]
+- 🔭 Currently building a dashboard for bird's breeding behavior in NSW.
+- 🌱 Learning new AI tools everyday 
+- 🎯 Looking for graduate roles as Data Analyst / Data Scientist / Data Engineer
+- ⚡ Fun fact: I'm very good at Mahjong. :) I also do bouldering twice a week >:)
 
 ---
 
@@ -40,7 +40,7 @@ I'm a **[your role]** based in **[city]**, focused on **[area, e.g. backend syst
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Project One**](https://github.com/YOUR_USERNAME/project-one) · [Live demo](https://example.com) | One sentence on the problem it solves | React, Node, PostgreSQL |
+| [**Project One**](https://github.com/pupshii/NLP-ReceiptExtraction) | CNN-LSTM-Based Bilingual Receipt Information Extraction Using Template-Based Data Generation (ICSEC2024) | Python (NumPy, Pandas, Matplotlib) |
 | [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | One sentence on the problem it solves | Python, FastAPI, Docker |
 | [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | One sentence on the problem it solves | TypeScript, Next.js |
 
